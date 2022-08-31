@@ -1,1 +1,19 @@
-
+{
+  "Quotes-M3":
+  [
+    {
+      "versionsCode": 8,
+      "versionsName": "Version 2.1",
+      "apkUrl": "https://github.com/Lijukay/Quotes-M3/releases/download/v2.0/Quotes.M3.V.2.0.apk",
+      "changelog": "Nothing yet, just for testing"
+    }
+  ],
+  "Quotes-OneUI":
+  [
+    {
+      "versionsCode": 8,
+      "versionsName": "Version 2.1",
+      "apkUrl": "https://github.com/Lijukay/Quotes-OneUI/releases/download/v2.0/Quotes.OneUI.V2.0.apk",
+      "changelog": "Nothing yet, just for testing"
+    }
+  ]
