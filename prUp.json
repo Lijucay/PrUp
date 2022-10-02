@@ -5,7 +5,8 @@
       "versionsCode": 9,
       "versionsName": "V.3.0",
       "apkUrl": "https://github.com/Lijukay/Quotes-M3/releases/download/v3.0/Quotes.V.3.0.apk",
-      "changelog": "Nothing yet, will be added in an future update"
+      "changelog": "I added Lottie-Animations\nI update the colors (they are now made by Material Builder and are now violet-red.), the Bottom-Sheet-Dialog-Layout and the Dialog-Layout\nI added Licenses to the about-page. They are showing the Licenses for the Lottie-Animation-Files\nI changed the App-Icon to follow the app's color.\nI added a ripple-animation to layouts.\nI added a (maybe non-working) code to delete the cache-direction of my app. This was made with the intention to prevent the app to cache my parsed data, but somehow it decided not to work (or at least the result is not really visible. This will be improved in a future update.\nI changed the quotation-mark and font. It now has the same font (Alef).
+"
     }
   ],
   "Quotes-OneUI":
