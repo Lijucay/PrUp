@@ -16,5 +16,14 @@
       "apkUrl": "https://github.com/Lijukay/Quotes-OneUI/releases/download/v2.0/Quotes.OneUI.V2.0.apk",
       "changelog": "Nothing yet, just for testing"
     }
+  ],
+  "Qwotable":
+  [
+    {
+      "versionsCode": 1,
+      "versionsName": "Version 1.0",
+      "apkUrl": "https://github.com/Lijukay/Quotes-OneUI/releases/download/v1.0/Qwotable.V1.0.apk",
+      "changelog": "Nothing yet, just for testing"
+    }
   ]
 }
