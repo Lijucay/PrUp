@@ -25,6 +25,7 @@
       "apkUrl": "https://github.com/Lijukay/Qwotable/releases/download/v0.1/app-debug.apk",
       "changelog": "Hopefully, it works now",
       "versionsCodeBeta": 3,
+      "versionsNameBeta": "Version 1.1 beta",
       "apkUrlBeta": "Yet to add",
       "changelogBeta": "This is a beta changelog. Have fun testing"
     }
