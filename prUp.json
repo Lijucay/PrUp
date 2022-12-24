@@ -21,9 +21,9 @@
   [
     {
       "versionsCode": 2,
-      "versionsName": "Version 1.0",
-      "apkUrl": "https://github.com/Lijukay/Qwotable/releases/download/v0.1/app-debug.apk",
-      "changelog": "Hopefully, it works now",
+      "versionsName": "Version 0.1.1 beta",
+      "apkUrl": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.1/app-debug.apk",
+      "changelog": "This is a beta release. It means that it is not guaranteed to be stable. If you find any issues, please send it to me.\n\nWhat changed?\n\nThe app uses a color theme now as I was mad about the black and white theme not working.\nThe settings page got a new switch, the beta switch. Please enable it, if you want to get the beta updates. However, the beta updates possibility is ... beta now, so there might be issues. If you experience any, contact me.",
       "versionsCodeBeta": 3,
       "versionsNameBeta": "Version 1.1 beta",
       "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.1/app-debug.apk",
