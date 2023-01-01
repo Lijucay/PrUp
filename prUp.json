@@ -24,10 +24,10 @@
       "versionsName": "Version 0.1.1 beta",
       "apkUrl": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.1/app-debug.apk",
       "changelog": "This is a beta release. It means that it is not guaranteed to be stable. If you find any issues, please send it to me.\n\nWhat changed?\n\nThe app uses a color theme now as I was mad about the black and white theme not working.\nThe settings page got a new switch, the beta switch. Please enable it, if you want to get the beta updates. However, the beta updates possibility is ... beta now, so there might be issues. If you experience any, contact me.",
-      "versionsCodeBeta": 3,
-      "versionsNameBeta": "Version 1.1 beta",
-      "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.1beta/Qwotable.V.0.1.1beta.apk",
-      "changelogBeta": "This is the same build so nothing has changed. It is for testing if everything works as it should"
+      "versionsCodeBeta": 4,
+      "versionsNameBeta": "Version 0.1.2 beta",
+      "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.2beta/app-release.apk",
+      "changelogBeta": "Changelog:\n\nThis release may bring following fixes:\n\n- Support of the Onboarding screen for smaller devices (yet to be tested)\n\nNew Features in this release:\n\n- Adding language support for French and German\n- Adding possibility of changing the app color (more colors are yet to be implemented)\n- Updater for full releases + beta releases (yet to be tested)\n- Switch for beta release\n- Card on home fragment shows update or beta update\n> Important: If there is a full release, it only shows the full release as beta versions should be at least one version code higher than full releases\n\nChanges in this release:\n\n- Replacing the Frame layout with a so called ViewPager\n- Quotes now show two credit texts. The first shows the author and the second the media where it can be found\n- The example card's layout now follow the layout of the card of the quotes and wisdom\n\n\nTHIS IS A BETA RELEASE AND MAY NOT BE STABLE YET. IT IS FOR TESTING PURPOSES ONLY"
     }
   ]
 }
