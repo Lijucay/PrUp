@@ -24,10 +24,10 @@
       "versionsName": "Version 0.1.2 beta",
       "apkUrl": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.2beta/app-release.apk",
       "changelog": "Changelog:\n\nThis release may bring following fixes:\n\n- Support of the Onboarding screen for smaller devices (yet to be tested)\n\nNew Features in this release:\n\n- Adding language support for French and German\n- Adding possibility of changing the app color (more colors are yet to be implemented)\n- Updater for full releases + beta releases (yet to be tested)\n- Switch for beta release\n- Card on home fragment shows update or beta update\n> Important: If there is a full release, it only shows the full release as beta versions should be at least one version code higher than full releases\n\nChanges in this release:\n\n- Replacing the Frame layout with a so called ViewPager\n- Quotes now show two credit texts. The first shows the author and the second the media where it can be found\n- The example card's layout now follow the layout of the card of the quotes and wisdom\n\n\nTHIS IS A BETA RELEASE AND MAY NOT BE STABLE YET. IT IS FOR TESTING PURPOSES ONLY",
-      "versionsCodeBeta": 6,
-      "versionsNameBeta": "Version 0.1.5 beta",
-      "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.5beta/app-release.apk",
-      "changelogBeta": "New:\n\n- A navigation icon has been added to every activity. It will lead you back to the previous activity or fragment\n- Another (yet unclickable) preference has been added that will, in future updates, show previous changelogs.\n- Dynamic color is now available for every device running Android 12 and higher. It currently replaces the red theme.\n\nChanges:\n\n- The design of Qwotable has been changed to the design language of Material 3.\n- The dialog for copy and share Qwotable has been replaced by buttons on the cards.\n- \"Colors\" and \"Language\" were merged into one category called \"Language and Theme\"\n- Some changes were made to the tablet layout.\n\nNotice: Please be aware that this is not a release but a preview or beta. It may have some issues yet. If you encounter issues, use the bug report preference in settings and tell me about the issue and how to reproduce it (step-by-step). Only then I may be able to fix the bug."
+      "versionsCodeBeta": 7,
+      "versionsNameBeta": "Version 0.1.6 beta",
+      "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.6beta/Qwotable.V.0.1.6.beta.apk",
+      "changelogBeta": "New:\n\n- Readding German translation\n- Adding a summary for the color preference, based on the color you are using\n\nChanges:\n\n- Fixing dark mode not working"
     }
   ]
 }
