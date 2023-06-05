@@ -25,11 +25,11 @@
   "Home Harmony":
   [
     {
-      "versionsCode": 5,
+      "versionsCode": 1,
       "versionName": "Version 1",
       "apkUrl": "https://github.com/Lijukay/HomeHarmony",
       "changelog": "First version of Home Harmony",
-      "versionsCodeBeta": 5,
+      "versionsCodeBeta": 1,
       "versionsNameBeta": "Version 1 beta1",
       "apkUrlBeta": "https://github.com/Lijukay/HomeHarmony",
       "changelogBeta": "First beta version of Home Harmony"
