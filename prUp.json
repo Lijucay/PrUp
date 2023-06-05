@@ -1,14 +1,6 @@
 {
-  "Quotes-M3":
-  [
-    {
-      "versionsCode": 0,
-      "versionsName": "Deleted",
-      "apkUrl": "No link available",
-      "changelog": "You cannot install this update. Quotes M3 has been depreciated and replaced by Qwotable."
-    }
-  ],
-  "Quotes-OneUI":
+  
+ "Quotes-OneUI":
   [
     {
       "versionsCode": 8,
@@ -28,6 +20,19 @@
       "versionsNameBeta": "Version 0.1.7 rc",
       "apkUrlBeta": "https://github.com/Lijukay/Qwotable/releases/download/v0.1.7rc/Qwotable.V.0.1.7rc.apk",
       "changelogBeta": "This is the last release with the updater. Please make sure, that if you install this app from github, updates via FDroid won't work. "
+    }
+  ],
+  "Home Harmony":
+  [
+    {
+      "versionsCode": 1,
+      "versionName": "Version 1",
+      "apkUrl": "https://github.com/Lijukay/HomeHarmony",
+      "changelog": "First version of Home Harmony",
+      "versionsCodeBeta": 1,
+      "versionsNameBeta": "Version 1 beta1",
+      "apkUrlBeta": "https://github.com/Lijukay/HomeHarmony",
+      "changelogBeta": "First beta version of Home Harmony"
     }
   ]
 }
