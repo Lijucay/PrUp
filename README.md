@@ -4,6 +4,7 @@ This repository is important for applications that are using a updater. Currentl
 
 - Quotes OneUI (depreciated)
 - Quotes M3 (depreciated)
+- Home Harmony (currently only beta-version)
 
 There is no updater anymore for:
 
