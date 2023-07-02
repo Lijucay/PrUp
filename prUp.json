@@ -29,10 +29,10 @@
       "versionName": "Version 1",
       "apkUrl": "https://github.com/Lijukay/HomeHarmony",
       "changelog": "First version of Home Harmony",
-      "versionsCodeBeta": 1,
-      "versionsNameBeta": "Version 1 beta1",
-      "apkUrlBeta": "https://github.com/Lijukay/HomeHarmony",
-      "changelogBeta": "First beta version of Home Harmony"
+      "versionsCodeBeta": 5,
+      "versionsNameBeta": "Version 0.5 beta",
+      "apkUrlBeta": "https://github.com/Lijukay/HomeHarmony/releases/download/v.5.0.beta/Home.Harmony.V.0.5.beta.apk",
+      "changelogBeta": "English:\n\nEdit Tasks, Members and Rules\nOverview for Members and Tasks\nShare files\nImport files\nInstead of crashing, the app now shows what went wrong and offers the possibity tp send logs to me\n\nDeutsch:\n\nBearbeiten von Mitgliedern, Aufgaben und Regeln\nÜbersicht für Mitglieder und Aufgaben\nDateien senden\nDateien importieren\nAnstatt abzustürzen, zeigt die App jetzt, was falsch gelaufen ist und bietet die Möglichkeit, mir Logs zu schicken."
     }
   ]
 }
