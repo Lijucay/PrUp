@@ -1,0 +1,23 @@
+{
+  "Updater":
+  [
+    {
+      "latest versioncode": 0,
+      "latest versionname": "Kein Name",
+      "latest changelog": "Kein Changelog",
+      "latest beta versioncode": 5,
+      "latest beta versionname": "Version 0.5 beta",
+      "latest beta changelog": "Texte wurden aktualisiert"
+    }
+  ],
+  "Information":
+  [
+    {
+      "information title": "Einige wichtige Informationen zur App!",
+      "information message": "Das ist die Message einer sehr wichtigen App-Information",
+      "min versioncode": 0,
+      "max versioncode": 5,
+      "date": "05.07.2023"
+    }
+  ]
+}  
