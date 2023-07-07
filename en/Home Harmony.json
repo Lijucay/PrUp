@@ -8,7 +8,8 @@
       "latest beta versioncode": 6,
       "latest beta versionname": "Version 0.6 beta",
       "latest beta changelog": "Fixed issues:\n\nThe updater now installs the application.\nFile should now be able to be imported again.",
-      "url of apk": "https://github.com/Lijukay/HomeHarmony/releases/download/v.5.0.beta/Home.Harmony.V.0.5.beta.apk";
+      "url of apk": "https://github.com/Lijukay/HomeHarmony/releases/download/v.5.0.beta/Home.Harmony.V.0.5.beta.apk",
+      "url of beta apk": "https://github.com/Lijukay/HomeHarmony/releases/download/v.5.0.beta/Home.Harmony.V.0.5.beta.apk"
     }
   ],
   "Information":
