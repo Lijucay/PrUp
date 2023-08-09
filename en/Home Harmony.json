@@ -15,11 +15,11 @@
   "Information":
   [
     {
-      "information title": "Some important information about the app!",
-      "information message": "This is the message of the information and is really important",
+      "information title": "Import through WhatsApp issue",
+      "information message": "In some cases, WhatsApp saves files without their extensions. It seems to be an issue by WhatsApp only.",
       "min versioncode": 0,
       "max versioncode": 5,
-      "date": "05.07.2023"
+      "date": "09.08.2023"
     }
   ]
 }   
