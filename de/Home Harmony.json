@@ -15,11 +15,11 @@
   "Information":
   [
     {
-      "information title": "Einige wichtige Informationen zur App!",
-      "information message": "Das ist die Message einer sehr wichtigen App-Information",
+      "information title": "Importieren durch WhatsApp",
+      "information message": "In einigen Fällen speichert WhatsApp Dateien ohne Dateierweiterungen ab. Dies scheit bisher nur ein Problem bei WhatsApp zu sein.",
       "min versioncode": 0,
       "max versioncode": 5,
-      "date": "05.07.2023"
+      "date": "09.08.2023"
     }
   ]
 }  
