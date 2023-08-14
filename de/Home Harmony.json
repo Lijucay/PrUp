@@ -20,6 +20,13 @@
       "min versioncode": 0,
       "max versioncode": 5,
       "date": "09.08.2023"
-    }
+    },
+{
+"information title": "Unteraufgaben",
+"Information message": "Es scheint, als würden die Unteraufgaben nicht richtig gespeichert werden.",
+"min versioncode": 7,
+"max versioncode": 7,
+"Date": "14.08.2023"
+}
   ]
 }  
