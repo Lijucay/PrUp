@@ -23,10 +23,10 @@
     },
 {
 "information title": "Unteraufgaben",
-"Information message": "Es scheint, als würden die Unteraufgaben nicht richtig gespeichert werden.",
+"information message": "Es scheint, als würden die Unteraufgaben nicht richtig gespeichert werden.",
 "min versioncode": 7,
 "max versioncode": 7,
-"Date": "14.08.2023"
+"date": "14.08.2023"
 }
   ]
 }  
