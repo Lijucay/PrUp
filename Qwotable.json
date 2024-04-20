@@ -2,7 +2,8 @@
   "JSON Files":
   [
     {
-      "QwotableJSONVersion": 2
+      "QwotableJSONVersion": 1,
+      "newQwotableCount": 0
     }
   ]
 }
